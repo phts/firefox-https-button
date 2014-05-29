@@ -1,9 +1,10 @@
 {
   "name": "https-button",
-  "title": "https-button",
+  "title": "Https Button",
   "id": "jid1-GMxVWBtICBIqpA",
-  "description": "a basic add-on",
-  "author": "",
+  "description": "A button that switches a current page URL to https protocol",
+  "author": "Phil Tsarik",
+  "homepage": "http://github.com/phts/https-button",
   "license": "MPL 2.0",
   "version": "0.1"
 }
