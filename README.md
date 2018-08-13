@@ -1,3 +1,5 @@
-# Https Button
+# https\://Button
 
-A Mozilla Firefox extension. Adds a button that switches a current page URL to https protocol.
+[![Mozilla Add-on](https://img.shields.io/amo/v/https-button.svg)](https://addons.mozilla.org/firefox/addon/https-button/)
+
+WebExtension for Mozilla Firefox. Switch current page to https\://.
