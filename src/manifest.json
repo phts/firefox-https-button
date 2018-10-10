@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
   "name": "https://Button",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "author": "Phil Tsaryk",
 
   "description": "Switch current page to https://",
